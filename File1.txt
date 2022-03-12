@@ -8,6 +8,7 @@ change for by team mate with conflict
 
 
 change for cr1 rebase with conflict
+change on remote master by teammate to test pull operation
 
 
 
