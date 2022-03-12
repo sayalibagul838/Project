@@ -7,7 +7,7 @@ change for by team mate with conflict
 
 
 
-change for cr1 rebase with conflict
+Change for cr1 rebase with conflict, change on local master for bug4
 change on remote master by teammate to test pull operation
 
 
